@@ -1,8 +1,3 @@
-"""
-Backlink Automator - Main Script
-Automates registration, verification, login, and profile updates across multiple sites
-"""
-
 import os
 import sys
 import time
